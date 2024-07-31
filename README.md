@@ -27,7 +27,8 @@ Import the datasets using Pandas.
 Combine the balance sheet and income statement datasets on common columns (Company, comp_type, Year).
 ## Calculate Ratios:
 Leverage Ratio: Ratio of Total Liabilities to Total Stockholder Equity.
-## Profitability Ratio: Ratio of Gross Profit to Total Revenue.
+## Profitability Ratio:
+ Ratio of Gross Profit to Total Revenue.
 ## Compute Insights:
 Identify the industry type with the lowest average profitability ratio.
 Identify the industry type with the highest average leverage ratio.
